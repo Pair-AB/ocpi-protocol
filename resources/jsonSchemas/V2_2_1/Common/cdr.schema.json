@@ -327,6 +327,17 @@
         },
         "last_updated": {
             "$ref": "common.schema.json#/definitions/timestamp"
+        },
+        "vat": {
+            "type": [
+                "number",
+                "null"
+            ],
+            "minimum": 0,
+            "maximum": 100
+        },
+        "total_vat": {
+            "type": "number"
         }
     },
     "required": [

@@ -1,5 +1,5 @@
 {
-    "name": "mrbig/ocpi-protocol",
+    "name": "pair-ab/ocpi-protocol",
     "description": "Library to handle OCPI. Compatible with PSRs. Uses JsonSchema to validate payloads.",
     "type": "library",
     "license": "MIT",
